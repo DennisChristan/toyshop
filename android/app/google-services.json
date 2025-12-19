@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279502067148",
+    "project_id": "tugasmcc-5aa23",
+    "storage_bucket": "tugasmcc-5aa23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279502067148:android:7b0c73b732b853e572b969",
+        "android_client_info": {
+          "package_name": "com.toyshop.toyshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKOs55phTEB4cDnIn_HpZeQ6AUqSw09E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
